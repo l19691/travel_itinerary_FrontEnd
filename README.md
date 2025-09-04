@@ -36,3 +36,8 @@ src/
 ├── App.jsx # App shell with routing logic
 ├── index.jsx # App entry point
 ├── index.css # Tailwind styles
+
+## How to make it all work!
+
+- **npm install
+- ** npm run dev 
