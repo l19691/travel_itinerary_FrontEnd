@@ -4,16 +4,16 @@ A responsive (basic) travel itinerary planning app built with React, Vite, and T
 
 Features
 
-Add, edit, and delete travel entries
-Validate dates to prevent planning trips in the past
-Clean and responsive UI styled with Tailwind CSS
-Role-based login system using localStorage
-Admin-only dashboard access
-Dynamic routing with React Router v6
-Persistent trip data stored in localStorage
-Drag-and-drop itinerary reordering with @hello-pangea/dnd
-Trip details page with mock weather information
-Mobile-friendly layout and responsive design
+**Add, edit, and delete travel entries
+**Validate dates to prevent planning trips in the past
+**Clean and responsive UI styled with Tailwind CSS
+**Role-based login system using localStorage
+**Admin-only dashboard access
+**Dynamic routing with React Router v6
+**Persistent trip data stored in localStorage
+**Drag-and-drop itinerary reordering with @hello-pangea/dnd
+**Trip details page with mock weather information
+**Mobile-friendly layout and responsive design
 
 Project Structure
 
